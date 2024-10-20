@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Website</title>
+</head>
+<body>
+    <h1>Welcome to the Test Website</h1>
+    <p>This website is designed to simulate a target for a DDoS attack.</p>
+</body>
+</html>
